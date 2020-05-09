@@ -59,7 +59,7 @@ opt_in_rules:
   - unavailable_function
   - untyped_error_in_catch
   - unused_import
-  - unused_private_declaration
+  - unused_declaration
   - vertical_parameter_alignment_on_call
   - xct_specific_matcher
   - yoda_condition
